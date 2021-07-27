@@ -320,7 +320,7 @@ Navbar
   height: 0;
   overflow: hidden;
   transition: var(--transition);
-  background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.1));
+
   margin-top: 2.5rem;
 }
 .show-links {
@@ -450,7 +450,7 @@ content
   letter-spacing: var(--letterSpacing);
 }
 .explore-btn {
-  background: rgba(197, 76, 76, 0.967);
+  background: rgba(197, 76, 76, 0.969);
   color: var(--grey-200);
   box-sizing: border-box;
   box-shadow: var(--shadow-4);
